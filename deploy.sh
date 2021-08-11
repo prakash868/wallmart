@@ -1,3 +1,1 @@
- 
-ready ga undandi
-next pongalkimamuluga undadu 
+ next pongalkimamuluga undadu 
